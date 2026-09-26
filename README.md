@@ -53,7 +53,8 @@ y métricas de toda la red.
 
 - [x] Fases 0–5 — núcleo MVC, esquema, sitio público, panel de agencia y
       panel de plataforma
-- [ ] **Fase 6** — despliegue a producción (cPanel) + smoke test
+- [x] **Fase 6** — despliegue a producción (cPanel) + smoke test
+      (desplegado y funcionando en `enjunin.com.ar/autos`, 2026-09-26)
 - [ ] **Fase 7** — vitrina transversal `autos.enjunin.com.ar`: cada agencia
       destaca hasta 5 vehículos con galería y CTA hacia su subdominio
       (modelo de negocio: cuota configurable por agencia)
