@@ -1,4 +1,4 @@
-# 🚗 Enjunin Motors
+# 🚗 enJunin Motors
 
 > **Vitrina pública** del proyecto *Enjunin Motors* — portal multi-tenant de
 > avisos de venta de autos. Acá vas a encontrar descripción, stack y
