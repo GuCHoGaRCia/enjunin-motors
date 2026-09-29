@@ -48,7 +48,7 @@ y métricas de toda la red.
 ### 🛠 Panel de plataforma — dashboard
 
 ![Panel de plataforma](screenshots/panel-plataforma.png)
-
+/*
 ## Roadmap
 
 - [x] Fases 0–5 — núcleo MVC, esquema, sitio público, panel de agencia y
@@ -58,7 +58,7 @@ y métricas de toda la red.
 - [ ] **Fase 7** — vitrina transversal `autos.enjunin.com.ar`: cada agencia
       destaca hasta 5 vehículos con galería y CTA hacia su subdominio
       (modelo de negocio: cuota configurable por agencia)
-
+*/
 ## Stack
 
 PHP 8 · MySQL/MariaDB · Apache (`mod_rewrite`) · HTML/CSS/JS vanilla ·
