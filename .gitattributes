@@ -1,2 +1,2 @@
-README.md linguist-language=PHP
-*.md linguist-language=PHP
+README.md linguist-language=PHP -linguist-documentation linguist-detectable
+*.md linguist-language=PHP -linguist-documentation linguist-detectable
