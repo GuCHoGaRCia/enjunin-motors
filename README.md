@@ -48,6 +48,43 @@ y métricas de toda la red.
 ### 🛠 Panel de plataforma — dashboard
 
 ![Panel de plataforma](screenshots/panel-plataforma.png)
+
+## Vehículos de muestra
+
+Galería del catálogo demo (`demo.enjunin.com.ar`) con fotos reales de los
+7 modelos del seed:
+
+<table>
+  <tr>
+    <td align="center"><img src="vehicles/toyota-hilux-2021.jpg" width="320" alt="Toyota Hilux 2021"><br>🛻 <b>Toyota Hilux 2021</b></td>
+    <td align="center"><img src="vehicles/volkswagen-amarok-2020.jpg" width="320" alt="Volkswagen Amarok 2020"><br>🛻 <b>Volkswagen Amarok 2020</b></td>
+    <td align="center"><img src="vehicles/ford-ranger-2022.jpg" width="320" alt="Ford Ranger 2022"><br>🛻 <b>Ford Ranger 2022</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="vehicles/chevrolet-cruze-2019.jpg" width="320" alt="Chevrolet Cruze 2019"><br>🚗 <b>Chevrolet Cruze 2019</b></td>
+    <td align="center"><img src="vehicles/renault-sandero-2021.jpg" width="320" alt="Renault Sandero 2021"><br>🚗 <b>Renault Sandero 2021</b></td>
+    <td align="center"><img src="vehicles/peugeot-208-2020.jpg" width="320" alt="Peugeot 208 2020"><br>🚗 <b>Peugeot 208 2020</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="vehicles/fiat-cronos-2022.jpg" width="320" alt="Fiat Cronos 2022"><br>🚗 <b>Fiat Cronos 2022</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+### Créditos de fotos
+
+Fotografías de [Wikimedia Commons](https://commons.wikimedia.org/),
+usadas en la demo con fines ilustrativos:
+
+- *Toyota Hilux Revo GR Sport* — Chanokchon, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:2021_Toyota_Hilux_Revo_GR_Sport_Double-Cab_2.8_4x4.jpg)
+- *Volkswagen Amarok Highline (Argentina)* — Just a Man, [CC BY 4.0](https://commons.wikimedia.org/wiki/File:2024_Volkswagen_Amarok_Highline_3.0_V6_(facelift,_Argentina)_(1-3).jpg)
+- *Ford Ranger 4x2 XLT 2022* — Captainmorlypogi1959, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Ford_Ranger_4x2_XLT_2022_(4).jpg)
+- *Chevrolet Cruze Turbo LTZ* — Damian B Oh, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Chevrolet_Cruze_Turbo_LTZ_D2LC_Modern_Black_(2).jpg)
+- *Dacia Sandero Stepway (Renault Sandero)* — Vauxford, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:2021_Dacia_Sandero_Stepway_Prestige_TCE_1.0_Front.jpg)
+- *Peugeot 208 Allure* — Harvey Bold, [CC0](https://commons.wikimedia.org/wiki/File:2016_Peugeot_208_Allure_PureTech_-_1200cc_1.2_(100PS)_Petrol_-_Silver_-_07-2024,_Front.jpg)
+- *Fiat Cronos 1.3 GSE* — Just a Man, [CC BY 4.0](https://commons.wikimedia.org/wiki/File:2024_Fiat_Cronos_1.3_GSE_Precision.jpg)
+
 <!--
 ## Roadmap
 
